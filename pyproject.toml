@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "tinyfiledb"
 version = "0.1.0"
 description = "A lightweight file-based database for Python projects."
-readme = "README.md"
+readme = "README"
 license = { text = "MIT" }
 authors = [
   { name = "Your Name", email = "you@example.com" }

@@ -1,2 +1,11 @@
 article.md
 *.json
+
+# Virtual environments
+test-venv/
+env/
+.venv/
+virtualenv/
+
+# Dist
+dist/

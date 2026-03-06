@@ -2,6 +2,8 @@
 
 A lightweight file-based database for Python projects. No server, no migrations, no dependencies — just a local JSON file and a simple API.
 
+If this project was useful to you, consider donating to support the Developer Service Blog: https://buy.stripe.com/bIYdTrggi5lZamkdQW
+
 ## Install
 
 ```bash
